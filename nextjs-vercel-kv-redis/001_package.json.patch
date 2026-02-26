@@ -1,0 +1,4 @@
+--- a/package.json
++++ b/package.json
+@@ dependencies @@
++    "redis": "^4.7.0",

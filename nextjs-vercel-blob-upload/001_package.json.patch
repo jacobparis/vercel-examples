@@ -1,0 +1,4 @@
+--- a/package.json
++++ b/package.json
+@@ dependencies @@
++    "@vercel/blob": "^1.0.0",

@@ -1,0 +1,6 @@
+--- a/package.json
++++ b/package.json
+@@ dependencies @@
++    "drizzle-orm": "^0.28.6",
++    "drizzle-kit": "^0.19.13",
++    "postgres": "^3.4.5",

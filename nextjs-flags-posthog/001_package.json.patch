@@ -1,0 +1,5 @@
+--- a/package.json
++++ b/package.json
+@@ dependencies @@
++    "@flags-sdk/posthog": "0.1.0",
++    "flags": "^4.0.2",

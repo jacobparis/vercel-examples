@@ -1,0 +1,4 @@
+--- a/package.json
++++ b/package.json
+@@ dependencies @@
++    "@vercel/functions": "^1.5.0",
