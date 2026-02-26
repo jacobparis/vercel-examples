@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-i18n-middleware",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

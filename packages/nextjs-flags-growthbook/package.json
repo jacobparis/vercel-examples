@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-flags-growthbook",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

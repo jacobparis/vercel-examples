@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-postgres-drizzle",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-modify-request-header",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

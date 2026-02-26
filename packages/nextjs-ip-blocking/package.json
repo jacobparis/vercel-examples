@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-ip-blocking",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

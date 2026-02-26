@@ -1,0 +1,7 @@
+--- a/package.json
++++ b/package.json
+@@ dependencies @@
++    "@flags-sdk/flagsmith": "1.0.1",
++    "flags": "^4.0.1",
++    "nanoid": "^5.1.0",
++    "flagsmith": "^9.3.2",

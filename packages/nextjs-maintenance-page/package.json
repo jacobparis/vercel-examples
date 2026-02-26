@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-maintenance-page",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

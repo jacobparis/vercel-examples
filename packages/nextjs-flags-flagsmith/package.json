@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-flags-flagsmith",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

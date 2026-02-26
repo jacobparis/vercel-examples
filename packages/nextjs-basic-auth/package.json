@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-basic-auth",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

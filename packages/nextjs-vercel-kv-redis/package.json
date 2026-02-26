@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-vercel-kv-redis",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

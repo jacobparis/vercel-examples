@@ -1,0 +1,7 @@
+{
+  "name": "@vercel-examples/nextjs-vercel-blob-upload",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  }
+}

@@ -1,6 +1,0 @@
---- a/package.json
-+++ b/package.json
-@@ dependencies @@
-+    "@flags-sdk/growthbook": "0.2.0",
-+    "@growthbook/growthbook": "1.5.1",
-+    "flags": "^4.0.0",
